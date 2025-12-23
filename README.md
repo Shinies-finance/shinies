@@ -21,10 +21,10 @@ In the world of digital collectibles, there exists a tier beyond rare — a chro
 
 | Contract | Address | Etherscan |
 |----------|---------|-----------|
-| **Shinies NFT** | `0xb134a87250c12443cdb9f317ebc2fd831d951363` | [View ↗](https://etherscan.io/address/0xb134a87250c12443cdb9f317ebc2fd831d951363) |
-| **Shinies GLUE** | `0x04aE2FC32aAF59f3d4A76caBc0A551a94571d599` | [View ↗](https://etherscan.io/address/0x04aE2FC32aAF59f3d4A76caBc0A551a94571d599) |
-| **SHINY Token** | `0x492752ff44479a97016b1ef1721c5f2b0459d9a5` | [View ↗](https://etherscan.io/address/0x492752ff44479a97016b1ef1721c5f2b0459d9a5) |
-| **SHINY GLUE** | `0x40fFF715AB8Ef0E801c386d2d4692E0f31894735` | [View ↗](https://etherscan.io/address/0x40fFF715AB8Ef0E801c386d2d4692E0f31894735) |
+| **Shinies NFT** | `0xa943fc24c1982bfb0a313e8809bca0e968caaffd` | [View ↗](https://etherscan.io/address/0xa943fc24c1982bfb0a313e8809bca0e968caaffd) |
+| **Shinies GLUE** | `0xe9F66492e846805187Af96F0c2DB2Ef79aB2aD62` | [View ↗](https://etherscan.io/address/0xe9F66492e846805187Af96F0c2DB2Ef79aB2aD62) |
+| **SHINY Token** | `0x774db95b0ff8fc86214dc1732ad31735d51a71aa` | [View ↗](https://etherscan.io/address/0x774db95b0ff8fc86214dc1732ad31735d51a71aa) |
+| **SHINY GLUE** | `0x4Df68A663b9360F9a7D4aC6f4E632843194Fa2AD` | [View ↗](https://etherscan.io/address/0x4Df68A663b9360F9a7D4aC6f4E632843194Fa2AD) |
 
 ---
 
